@@ -20,7 +20,7 @@
  
     <c:if test="${not empty errorMessge}"><div style="color:red; font-weight: bold; margin: 30px 0px;">${errorMessge}</div></c:if>
  
-    <form name='login' action="/" method='POST'>
+    <form name='login' action="DISTRICAMPOJJA-0.0.1-SNAPSHOT/" method='POST'>
 
         <table>
             <tr>
